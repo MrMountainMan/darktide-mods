@@ -11,7 +11,7 @@ local SimpleAudio
 --local vars
 --local math_random = math.random
 local volume_setting = function() return mod:get("dracula_volume") or 30 end
-local minimum_interval = 6
+local minimum_interval = 8
 
 local whisper1
 local whisper2
